@@ -6,6 +6,8 @@ import chapter5 from './modules/chapter5';
 import chapter6 from './modules/chapter6';
 import chapter7 from './modules/chapter7';
 import chapter8 from './modules/chapter8';
+import chapter9 from './modules/chapter9';
+import chapter10 from './modules/chapter10';
 
 // chapter1();
 // chapter2();
@@ -14,4 +16,6 @@ import chapter8 from './modules/chapter8';
 // chapter5();
 // chapter6();
 // chapter7();
-chapter8();
+// chapter8();
+// chapter9();
+chapter10();
